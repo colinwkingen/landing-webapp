@@ -57,14 +57,14 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.4</version>
+			<version>4.3.4.RELEASE</version>
 		</dependency>
 
 		<!-- jstl -->
 		<dependency>
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
-			<version>1.2.x</version>
+			<version>1.2</version>
 		</dependency>
 
 
