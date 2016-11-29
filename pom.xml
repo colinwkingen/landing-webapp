@@ -130,7 +130,7 @@
                   <destFileName>newrelic</destFileName>
                 </artifactItem>
               </artifactItems>
-              <outputDirectory>/Location/to/unzip</outputDirectory>
+              <outputDirectory>./</outputDirectory>
             </configuration>
           </execution>
         </executions>
